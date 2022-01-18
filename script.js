@@ -1,8 +1,8 @@
 var today = moment().format("dddd, MMMM Do");
 $("#currentDay").text(today);
 
-var hourRow = $(".selectTable .row .hour");
-var textBColor = $(".selectTable .row textarea");
+var hourRow = $("#selectTable .row .hour");
+var textBColor = $("#selectTable .row textarea");
 var currentHour = moment().format("HH");
 currentHour = parseInt(currentHour);
 var militaryToStandardMap = {"9 am":9, "10 am":10, "11 am":11, "12 pm":12, "1 pm":13, "2 pm":14, "3 pm":15, "4 pm":16, "5 pm":17 }
