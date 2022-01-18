@@ -2,7 +2,7 @@
 
 ## Description
 
-The following application is an interactive planner the user can use to plan out their work day. Following a standard 9am-5pm format, the user can type in the text area and save their data in the specific timeblock. 
+The following application is an interactive planner the user can use to plan out their work day. Following a standard 9am-5pm format, the user can type in the text area and save their data in the specific timeblock in order to manage their time effectively. 
 
 
 ### Functionality
