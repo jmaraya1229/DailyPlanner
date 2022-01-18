@@ -15,6 +15,8 @@ The following application is an interactive planner the user can use to plan out
 
 
 ## Screenshot 
+The following screenshot demonstrates the application functionality:
+
 ![screenshot](Screenshot.png)
 
 ## Link
